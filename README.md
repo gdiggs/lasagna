@@ -40,7 +40,7 @@ Without further ado, here is my lasagna recipe.
 * 1 28-ounce can whole tomatoes, undrained and crushed by hand
 * 2 6-ounce cans tomato paste
 * 2 teaspoons sugar
-* 2 teaspoons dried basil
+* 2 teaspoons dried basil (use about 4 times this in fresh basil if it's in season)
 * 1/4 teaspoon pepper
 * 1 bunch finely chopped parsley, divided
 * 3/4 cup freshly grated parmesan cheese
