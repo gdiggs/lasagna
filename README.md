@@ -36,33 +36,37 @@ Without further ado, here is my lasagna recipe.
 * 1 pound ground beef
 * 1 pound loose italian sausage
 * 1 cup chopped onion
+* 4 cloves garlic
 * 1 28-ounce can whole tomatoes, undrained and crushed by hand
 * 2 6-ounce cans tomato paste
 * 2 teaspoons sugar
 * 2 teaspoons dried basil
 * 1/4 teaspoon pepper
-* 1 tablespoon finely chopped parsley
-* 3/4 cup grated parmesan cheese
+* 1 bunch finely chopped parsley, divided
+* 3/4 cup freshly grated parmesan cheese
 * 4 cups shredded mozzarella cheese
 
 ### Instructions
 
-#### For the Bechamel
+#### Start the Meat Sauce
+
+1. Brown beef and sausage in the bottom of a stock pot.
+1. Add onion and garlic, cook until soft. Drain excess liquid from the pot.
+1. Stir in tomatoes, tomato paste, sugar, pepper, and basil.
+1. Bring to boil then reduce heat and simmer uncovered for 30 minutes. Mix in some of the parsley.
+
+#### Make the Bechamel (while the meat sauce simmers)
 
 1. Warm the milk in the microwave for 2 minutes.
-2. Melt butter in a small saucepan until foamy over medium heat.
-3. Reduce heat to low, add flour and whisk until smooth and the roux smells cooked, about 1 minute.
-4. Gradually whisk in milk.
-5. Add the bay leaf and cook until just thickened, stirring frequently, about 10 minutes.
-6. Stir in the salt and nutmeg. Season with black pepper, and discard the bay leaf. Set the sauce aside until needed. You can gently reheat the sauce over low heat when needed.
+1. Melt butter in a small saucepan until foamy over medium heat.
+1. Reduce heat to low, add flour and whisk until smooth and the roux smells cooked, about 1 minute.
+1. Gradually whisk in milk.
+1. Add the bay leaf and cook until just thickened, stirring frequently, about 10 minutes.
+1. Stir in the salt and nutmeg. Season with black pepper, and discard the bay leaf. Set the sauce aside until needed. You can gently reheat the sauce over low heat if needed.
 
 #### For the Lasagna
 
-1. Brown beef and sausage in the bottom of a stock pot.
-2. Add onion, cook until soft. Drain excess liquid from the pot.
-2. Stir in tomatoes, tomato paste, sugar, pepper, and basil.
-3. Bring to boil then reduce heat and simmer uncovered for 20-30 minutes. Mix in the parsley.
-5. Put a layer of noodles in a 9 X 13 pan, a layer of meat sauce, layer of bechamel and a layer of grated parmesean and mozzarella cheese then repeat all the layers twice more. Cover with foil. 
-6. Bake at 375 degrees for 30 minutes. Uncover, bake 20 minutes more. Let stand 10 minutes before cutting.
+1. Put a layer of noodles in a 9 X 13 pan, a layer of meat sauce, layer of bechamel and a layer of grated parmesean and mozzarella cheese then repeat all the layers twice more. On the second layer, after the cheese, add a layer of parsley. Cover with foil. 
+1. Bake at 375 degrees for 30 minutes. Uncover, bake 20 minutes more. Let stand 10 minutes before cutting.
 
 You can also prepare this lasagna the day before and store it in the fridge. Increase the first baking step to 40 minutes.
