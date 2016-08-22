@@ -35,6 +35,7 @@ Without further ado, here is my lasagna recipe.
 * 1 package oven-ready lasagna noodles
 * 1 pound ground beef
 * 1 pound loose italian sausage
+* 6 minced anchovy fillets
 * 1 cup chopped onion
 * 4 cloves garlic
 * 1 28-ounce can whole tomatoes, undrained and crushed by hand
@@ -51,7 +52,7 @@ Without further ado, here is my lasagna recipe.
 #### Start the Meat Sauce
 
 1. Brown beef and sausage in the bottom of a stock pot.
-1. Add onion and garlic, cook until soft. Drain excess liquid from the pot.
+1. Add anchovy, onion and garlic, cook until soft. Drain excess liquid from the pot.
 1. Stir in tomatoes, tomato paste, sugar, pepper, and basil.
 1. Bring to boil then reduce heat and simmer uncovered for 30 minutes. Mix in some of the parsley.
 
