@@ -32,10 +32,15 @@ Without further ado, here is my lasagna recipe.
 * 1 bay leaf
 * 1/8 teaspoon ground nutmeg
 * 1/2 teaspoon salt
-* 1 package oven-ready lasagna noodles
+* Noodles
+  * 1 package oven-ready lasagna noodles    
+    **OR**    
+  * 1/2 teaspoon kosher salt
+  * 3 cups all-purpose flour plus more
+  * 4 large eggs, room temperature
 * 1 pound ground beef
 * 1 pound loose italian sausage
-* 6 minced anchovy fillets
+* 3 minced anchovy fillets
 * 1 cup chopped onion
 * 4 cloves garlic
 * 1 28-ounce can whole tomatoes, undrained and crushed by hand
@@ -48,6 +53,11 @@ Without further ado, here is my lasagna recipe.
 * 4 cups shredded mozzarella cheese
 
 ### Instructions
+
+#### Optional: Make the noodles (recipe from [Bon Appetit](http://www.bonappetit.com/recipe/lasagna-bolognese))
+
+1. Whisk salt and 3 cups flour in a large bowl, make a well in the center, and crack eggs into well. Mix eggs with a fork, then slowly mix in flour until a shaggy dough forms. Turn out dough onto a lightly floured surface and knead, dusting lightly with flour if sticky, until smooth, about 5 minutes (it will be fairly stiff). Wrap in plastic; let sit until dough holds an indentation when pressed, 1–2 hours.
+1. Set pasta maker to thickest setting; dust lightly with flour. Divide dough into 4 pieces. Working with 1 piece at a time and keeping remaining dough wrapped in plastic as you work, flatten dough into a narrow rectangle (no wider than mouth of machine); pass through rollers. Fold dough as needed to fit and run through again. Repeat without folding, adjusting machine to thinner settings after every pass and dusting with flour if sticky, until pasta sheet is 1/16” thick (setting 8 on most machines). Place pasta sheets on a lightly floured surface and cut crosswise into 16 8”-long noodles.
 
 #### Start the Meat Sauce
 
@@ -67,7 +77,7 @@ Without further ado, here is my lasagna recipe.
 
 #### For the Lasagna
 
-1. Put a layer of noodles in a 9 X 13 pan, a layer of meat sauce, layer of bechamel and a layer of grated parmesean and mozzarella cheese then repeat all the layers twice more. On the second layer, after the cheese, add a layer of parsley. Cover with foil. 
+1. Put a layer of noodles in a 9 X 13 pan, a layer of meat sauce, layer of bechamel and a layer of grated parmesean and mozzarella cheese then repeat all the layers twice more. On the second layer, after the cheese, add a layer of parsley. Cover with foil.
 1. Bake at 375 degrees for 30 minutes. Uncover, bake 20 minutes more. Let stand 10 minutes before cutting.
 
 You can also prepare this lasagna the day before and store it in the fridge. Increase the first baking step to 40 minutes.
