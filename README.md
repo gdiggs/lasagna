@@ -46,7 +46,6 @@ Without further ado, here is my lasagna recipe.
 * 1 bunch finely chopped parsley, divided
 * 3/4 cup freshly grated parmesan cheese
 * 4 cups shredded mozzarella cheese
-* Cooking Spray
 
 ### Instructions
 
@@ -69,7 +68,7 @@ Without further ado, here is my lasagna recipe.
 #### For the Lasagna
 
 1. Put a layer of meat sauce in a 9x13 pan, a layer of bechamel, and a layer of grated parmesean and mozzarella. Top with a layer of noodles to fully cover the pan (overlap if necessary). Repeat all the layers twice more, but do not put the lasagna noodles on the top layer (you should have cheese on the top). On the second layer, after the cheese, add a layer of parsley.
-1. Spray a sheet of foil with the cooking spray and cover the pan. 
+1. Cover the pan with foil. 
 1. Bake at 375 degrees for 30 minutes. Uncover, bake 20 minutes more. Let stand 10 minutes before cutting.
 
-You can also prepare this lasagna the day before and store it in the fridge. Increase the first baking step to 40 minutes.
+You can also prepare this lasagna the day before and store it in the fridge. Increase the first baking step to 50 minutes.
