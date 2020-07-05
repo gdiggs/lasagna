@@ -26,23 +26,21 @@ Without further ado, here is my lasagna recipe.
 
 ### Ingredients
 
-* 4 tablespoons butter
-* 1/4 cup all-purpose flour
-* 2 cups whole milk
+* 6 tablespoons butter
+* 6 taplespoons  all-purpose flour
+* 3 cups whole milk
 * 1 bay leaf
 * 1/8 teaspoon ground nutmeg
 * 1/2 teaspoon salt
-* 2 packages oven-ready lasagna noodles
+* 2 packages oven-ready lasagna noodles, or one recipe of [fresh noodles](https://cooking.nytimes.com/recipes/1021028-handmade-lasagna-sheets)
 * 1 pound ground beef
 * 1 pound loose italian sausage
 * 6 minced anchovy fillets
-* 1 cup chopped onion
-* 4 cloves garlic
+* 1 medium onion, diced
+* 4 cloves garlic, minced
 * 1 28-ounce can whole tomatoes, undrained and crushed by hand
 * 2 6-ounce cans tomato paste
-* 2 teaspoons sugar
 * 2 teaspoons dried basil (use about 4 times this in fresh basil if it's in season)
-* 1/4 teaspoon pepper
 * 1 bunch finely chopped parsley, divided
 * 3/4 cup freshly grated parmesan cheese
 * 4 cups shredded mozzarella cheese
@@ -52,9 +50,9 @@ Without further ado, here is my lasagna recipe.
 #### Start the Meat Sauce
 
 1. Brown beef and sausage in the bottom of a stock pot.
-1. Add anchovy, onion and garlic, cook until soft. Drain excess liquid from the pot.
-1. Stir in tomatoes, tomato paste, sugar, pepper, and basil.
-1. Bring to boil then reduce heat and simmer uncovered for 30 minutes. Mix in some of the parsley.
+1. Add anchovy, onion and garlic, cook until soft.
+1. Stir in tomatoes, tomato paste, and basil.
+1. Bring to boil then reduce heat and simmer uncovered for 30 minutes. Mix in some of the parsley. Season to taste with salt and pepper.
 
 #### Make the Bechamel (while the meat sauce simmers)
 
@@ -69,6 +67,6 @@ Without further ado, here is my lasagna recipe.
 
 1. Put a layer of meat sauce in a 9x13 pan, a layer of bechamel, and a layer of grated parmesean and mozzarella. Top with a layer of noodles to fully cover the pan (overlap if necessary). Repeat all the layers twice more, but do not put the lasagna noodles on the top layer (you should have cheese on the top). On the second layer, after the cheese, add a layer of parsley.
 1. Cover the pan with foil. 
-1. Bake at 375 degrees for 30 minutes. Uncover, bake 20 minutes more. Let stand 10 minutes before cutting.
+1. Bake at 400 degrees for 30 minutes. Uncover, bake 20 minutes more. Let stand 15 minutes before cutting.
 
 You can also prepare this lasagna the day before and store it in the fridge. Increase the first baking step to 50 minutes.
